@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello Jenkins from Github!"
+echo "Hello Jenkins from Github HIHI!"
